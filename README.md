@@ -23,9 +23,14 @@ Screenshot_20230805-110416_Pydroid 3.jpg">
 
 ### Report Channel
 <img src="/report/Screenshot_20230805-113258_Pydroid 3.jpg">
+* Banned Admin 🔆
+* Deleted Channel 🔆
 
 ### Report Group [updating]
 - It is currently being updated
+* Banned admin 🔆
+* Private group 🔆
+* Deleted anymous 🔆
 
 ## tip
 
