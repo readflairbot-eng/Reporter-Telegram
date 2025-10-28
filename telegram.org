@@ -1,4 +1,4 @@
-# Reporter-Telegram
+# iFlash Report 
 ### A powerful tool for reporting channels, groups and accounts ⚠️
 
 ### Menu :
@@ -58,7 +58,7 @@ If installed , pip install {name}
 ## Install :
 
 ```
-git clone https://github.com/esfelurm/Reporter-Telegram
+git clone https://github.com/Readflairbot/Reporter-Telegram
 cd Reporter-Telegram
 python main.py
 ```
