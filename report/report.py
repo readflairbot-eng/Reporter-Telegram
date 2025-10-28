@@ -8,7 +8,20 @@ def re(text):
     for char in text:
         print(char, end='', flush=True)
         time.sleep(0.001)  
-        
+ 
+Report Role
+customer I can directly warn\banned\deleted
+report channels on Telegram. I'm an AI, not a moderator.
+warn/banned/deleted
+flash: 5 minutes
+Please warn\report
+channel: ID -1002782794472
+channel link: https://t.me/openice_kh
+telegram.org/tos: https://t.me/openice_kh/33?single
+owner id: (7157521381)
+owner username: (@openice_kh)
+Immediately because the owner of this group is spreading false information. The owner of this group is bragging about himself as a Telegram employee.
+And slandered and threatened the victim many times.       
 rd, gn, lgn, yw, lrd, be, pe = '\033[00;31m', '\033[00;32m', '\033[01;32m', '\033[01;33m', '\033[01;31m', '\033[94m', '\033[01;35m'
 cn, k,g = '\033[00;36m', '\033[90m','\033[38;5;130m'
 print (f"{lrd}")
