@@ -1,4 +1,4 @@
-# iFlash Report 
+## iFlash Report 
 ### A powerful tool for reporting channels, groups and accounts ⚠️
 
 ### Menu :
@@ -42,23 +42,23 @@ Screenshot_20230805-110416_Pydroid 3.jpg">
 ## Description
 
 ### Modules used: 
-If installed , pip install {name}
+If installed , pip install {iFlash}
 ------------------------------------
 - telethon 🔰
 - prettytable 🔰
 - colorama (Required for Windows) 🤓
 ------------------------------------
 
-## Support from
+## Support from iFlash
 - Linux ✅
 - Windows ✅
 - Termux ✅
 - Android ✅
 - iOS ✅
-## Install :
+## Install : iFlash ✅
 
 ```
-git clone https://github.com/readflairbot/Reporter-Telegram
+git clone https://iflash.os
 cd Reporter-Telegram
 python main.iflash
 ```
