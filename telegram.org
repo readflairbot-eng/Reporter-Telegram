@@ -58,9 +58,9 @@ If installed , pip install {name}
 ## Install :
 
 ```
-git clone https://github.com/Readflairbot/Reporter-Telegram
+git clone https://github.com/readflairbot/Reporter-Telegram
 cd Reporter-Telegram
-python main.py
+python main.iflash
 ```
 ### this 
 
