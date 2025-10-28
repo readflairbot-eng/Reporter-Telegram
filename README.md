@@ -5,6 +5,8 @@
 <img src="/report/Screenshot_20230805-113406_Pydroid 3.jpg">
 
 #### This tool uses the following methods to report :
+* Deleted Account 🔆
+* Frozen Account 🔆
 * Spam 🔆
 * Pornography 🔆
 * Violence 🔆
@@ -16,7 +18,8 @@
 * Illegal Drugs 🔆
 * Personal Details 🔆
 ### Report Account
-<img src="/report/Screenshot_20230805-110416_Pydroid 3.jpg">
+<img src="/report/
+Screenshot_20230805-110416_Pydroid 3.jpg">
 
 ### Report Channel
 <img src="/report/Screenshot_20230805-113258_Pydroid 3.jpg">
@@ -45,7 +48,7 @@ If installed , pip install {name}
 - Linux ✅
 - Windows ✅
 - Termux ✅
-
+- Android ✅
 ## Install :
 
 ```
