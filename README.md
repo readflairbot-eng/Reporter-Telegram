@@ -1,12 +1,15 @@
 iFlash Messager 
->## A powerful tool for reporting channels, groups and accounts ⚠️
+>## iFlash Messager app chat for channels, groups and private 📈
 
 ### Menu :
-<img src="/report/Screenshot_20230805-113406_Pydroid 3.jpg">
-
+<setting src="/status/12
+<privacy and security src="/status/
+<chat folder src="/status/
+<device src="/status 
+-------------------
+iflash.android">
+ifflash.iOS">
 #### This tool uses the following methods to report :
-* Deleted Account 🔆
-* Frozen Account 🔆
 * Spam 🔆
 * Pornography 🔆
 * Violence 🔆
@@ -17,27 +20,18 @@ iFlash Messager
 * Geo Irrelevant 🔆
 * Illegal Drugs 🔆
 * Personal Details 🔆
-### Report Account
-<img src="/report/
-Screenshot_20230805-110416_Pydroid 3.jpg">
 
-### Report Channel
-<img src="/report/Screenshot_20230805-113258_Pydroid 3.jpg">
-* Banned Admin 🔆
-* Deleted Channel 🔆
-
-### Report Group [updating]
-- It is currently being updated
-* Banned admin 🔆
-* Private group 🔆
-* Deleted anymous 🔆
+### Setting
+<⚙️ src="/info"/status
+*<🔯 adminstration"/add
+*<🧑‍🧒‍🧒 member"/permission"/privacy
+*<⛓️‍💥 invite"/link
+*<📈 booster"/boost"/link
+*<📋 recent"/search 
 
 ## tip
 
-- If you accidentally report something, your account will be reported! ❌
-- Report any violation you see accordingly
-- Any crime committed with this tool is the responsibility of the user ❌
-- This is a trial version! ♨️
+- iFlash Messager app chat for channels, groups and private 
 
 ## Description
 
@@ -46,7 +40,7 @@ If installed , pip install {name}
 ------------------------------------
 - telethon 🔰
 - prettytable 🔰
-- colorama (Required for Windows) 🤓
+- colorama (Request for Google Play) 🤓
 ------------------------------------
 
 ## Support from
@@ -61,9 +55,10 @@ git clone https://github.com/readflairbot-eng/iFlash
 cd iFlash Messager Chat Teams (call video vioce media music location file group chat private)
 python iflash.os
 ```
-### this 
+### iFlash Messager 
 
 If you come across this text, the tool must be logged in once with your account in order to be able to run, enter your number and then enter the account login code. 👇🏻
 <img src="/report/20230805_120226.jpg">
-
-Goodbye my friends 
+-----------------
+App Version 14.2.2
+-----------------
