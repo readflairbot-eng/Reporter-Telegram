@@ -1,4 +1,4 @@
->### Reporter-Telegram
+iFlash Messager 
 >## A powerful tool for reporting channels, groups and accounts ⚠️
 
 ### Menu :
@@ -57,9 +57,9 @@ If installed , pip install {name}
 ## Install :
 
 ```
-git clone https://github.com/esfelurm/Reporter-Telegram
-cd Reporter-Telegram
-python main.py
+git clone https://github.com/readflairbot-eng/iFlash
+cd iFlash Messager Chat Teams (call video vioce media music location file group chat private)
+python iflash.os
 ```
 ### this 
 
