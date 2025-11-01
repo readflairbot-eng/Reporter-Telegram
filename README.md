@@ -8,10 +8,9 @@ iFlash Messager
  <device src="/model="/log
 -------------------
 
-iflash.android">
-```
-ifflash.iOS">
-```
+# iflash.android">
+
+# ifflash.iOS">
 ------------------
 ## Report 
 ### This tool uses the following methods to report :
@@ -43,7 +42,10 @@ ifflash.iOS">
 ### Modules used: 
 If installed , pip install {iFLASH}
 ------------------------------------
+
 - App (Request for Google Play)
+- Relations (02-12-2025)
+- Version (14.2.2)
 ------------------------------------
 
 ## Support from
@@ -61,7 +63,8 @@ python iFlash.OS
 ### iFlash Messager 
 
 If you come across this text, the tool must be logged in once with your account in order to be able to run, enter your number and then enter the account login code. 👇🏻
-<img src="/https://google.play.com/app_iflash.os">iFlash
+<img src="/https://google.play.com/app_iflash.os">
+* (iFlash)
 -----------------
 App Version 14.2.2
 -----------------
