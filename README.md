@@ -8,12 +8,13 @@ iFlash Messager
  <device src="/model="/log
 -------------------
 
-# iflash.android">
+# iflash.android">google.play.cok
 
-# ifflash.iOS">
+# iflash.iOS">play.store
 ------------------
+
 ## Report 
-### This tool uses the following methods to report :
+# This tool uses the following methods to report :
  * Spam 🔆
  * Pornography 🔆
  * Violence 🔆
@@ -23,7 +24,7 @@ iFlash Messager
  * Fake 🔆
  * Geo Irrelevant 🔆
  * Illegal Drugs 🔆
-* Personal Details 🔆
+ * Personal Details 🔆
 
 ### Setting
 * <⚙️ src="/info"/status
@@ -32,14 +33,17 @@ iFlash Messager
 * <⛓️‍💥 invite"/link
 * <📈 booster"/boost"/link
 * <📋 recent"/search 
-
-## iFLASH
+__________________________________
+*iFlash/iflash/iFlash.OS/
+  <## {iFlash} [Android](google.play.com)>
+  <## {iFlash} [iOS](play.store)>
+__________________________________
 
 - iFlash Messager *app chat for channels, groups and private 
 
 ## Description
 
-### Modules used: 
+### Modules used: {MENTION}
 If installed , pip install {iFLASH}
 ------------------------------------
 
@@ -53,7 +57,7 @@ If installed , pip install {iFLASH}
 - Windows ✅
 - Termux ✅
 - Android ✅
-## Install :
+# [x][Install] : (iFlash) 
 
 ```
 git clone https://github.com/readflairbot-eng/iFlash
