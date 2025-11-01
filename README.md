@@ -1,4 +1,4 @@
-iFlash Messager 
+[iFLASH]iFlash Messager 
 >## iFlash Messager app chat for channels, groups and private 📈
 
 ### Menu :
