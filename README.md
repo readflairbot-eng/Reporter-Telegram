@@ -34,9 +34,10 @@ iFlash Messager
 * <📈 booster"/boost"/link
 * <📋 recent"/search 
 __________________________________
-*iFlash/iflash/iFlash.OS/
-  <## {iFlash} [Android](google.play.com)>
-  <## {iFlash} [iOS](play.store)>
+<#iFlash app="[iflash](https://iflash.os.com)
+
+<## {iFlash} [Android](google.play.com)>
+<## {iFlash} [iOS](play.store)>
 __________________________________
 
 - iFlash Messager *app chat for channels, groups and private 
