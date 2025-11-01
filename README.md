@@ -23,7 +23,6 @@ Screenshot_20230805-110416_Pydroid 3.jpg">
 
 ### Report Channel
 <img src="/report/Screenshot_20230805-113258_Pydroid 3.jpg">
-* Banned Admin 🔆
 * Deleted Channel 🔆
 
 ### Report Group [updating]
@@ -42,7 +41,7 @@ Screenshot_20230805-110416_Pydroid 3.jpg">
 ## Description
 
 ### Modules used: 
-If installed , pip install {name}
+If installed , pip install {iFlash Messager}
 ------------------------------------
 - telethon 🔰
 - prettytable 🔰
@@ -51,10 +50,11 @@ If installed , pip install {name}
 
 ## Support from
 - Linux ✅
-- Windows ✅
+- iPad ✅
 - Termux ✅
 - Android ✅
-## Install :
+- iOS ✅ 
+- Desktop ✅
 
 ```
 git clone https://github.com/readflairbot-eng/iFlash
